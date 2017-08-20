@@ -1,0 +1,1 @@
+# purescript-aff-avar-select

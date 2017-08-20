@@ -1,0 +1,20 @@
+{
+  "name": "purescript-aff-select",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.1.0",
+    "purescript-console": "^3.0.0",
+    "purescript-filterable": "^2.4.1",
+    "purescript-exists": "^3.0.0",
+    "purescript-aff": "^4.0.0-rc.2",
+    "purescript-random": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
